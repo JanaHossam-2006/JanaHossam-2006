@@ -6,7 +6,7 @@
 📌 **Experience** - Former Data Entry at a Tourism Company  
 🚀 **Skills** - Python, SQL, Excel, Tableau  
 
-🌍 I prefer communicating in **Arabic**  
+🌍 I prefer communicating in **ENglish or Arabic**  
 📌 I always follow **accurate & approved solutions**  
 
 📫 **Contact Me**:  www.linkedin.com/in/jana-hossam
