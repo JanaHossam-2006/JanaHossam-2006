@@ -1,12 +1,12 @@
-- 👋 Hi, I’m @JanaHossam-2006
-- 👀 I’m interested in programming
-- 🌱 I’m currently learning web development
-- 💞️ I’m looking to collaborate with smart programmers
-- 📫 ghosam804@gmail.com
-- 😄 Pronouns:🎀JONJON🎀
+# 👩‍💻 About Me
 
+🎓 **Student at Helwan University** - Business Information Systems (BIS)  
+📊 **Google Data Analyst Specialist** - Digital Egypt Pioneers Scholarship  
+💻 **Data Enthusiast** - Interested in Big Data & Data Analysis  
+📌 **Experience** - Former Data Entry at a Tourism Company  
+🚀 **Skills** - Python, SQL, Excel, Tableau  
 
-<!---
-JanaHossam-2006/JanaHossam-2006 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+🌍 I prefer communicating in **Arabic**  
+📌 I always follow **accurate & approved solutions**  
+
+📫 **Contact Me**:  www.linkedin.com/in/jana-hossam
